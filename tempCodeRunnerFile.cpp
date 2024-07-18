@@ -1,0 +1,3 @@
+spec(){
+        cout<<"hwVihical :: getspec :- ";
+    }
